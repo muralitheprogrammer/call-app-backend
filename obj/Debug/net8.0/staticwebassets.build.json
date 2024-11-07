@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NZRe0pFUXgKPwk8Sq2oiAY0npgt0rIjkxtEWlNgZazc=",
+  "Source": "TwilioVoipBackend",
+  "BasePath": "_content/TwilioVoipBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

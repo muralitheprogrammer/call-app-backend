@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Murali\\TwilioVoipBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:controllers\\callscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\twiliovoipbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:twiliovoipbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:hubs\\callhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\twiliosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:twiliosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|d:\\murali\\twiliovoipbackend\\services\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA296E-D59D-4206-BBFE-66F16A878771}|TwilioVoipBackend.csproj|solutionrelative:services\\twilioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallHub.cs",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\Hubs\\CallHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\CallHub.cs",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\Hubs\\CallHub.cs",
+              "RelativeToolTip": "Hubs\\CallHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:35:01.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallsController.cs",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\Controllers\\CallsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CallsController.cs",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\Controllers\\CallsController.cs",
+              "RelativeToolTip": "Controllers\\CallsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA9wGIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:01:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwilioService.cs",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\Services\\TwilioService.cs",
+              "RelativeDocumentMoniker": "Services\\TwilioService.cs",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\Services\\TwilioService.cs",
+              "RelativeToolTip": "Services\\TwilioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:31:13.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TwilioVoipBackend.csproj",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\TwilioVoipBackend.csproj",
+              "RelativeDocumentMoniker": "TwilioVoipBackend.csproj",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\TwilioVoipBackend.csproj",
+              "RelativeToolTip": "TwilioVoipBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T05:18:04.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwilioSettings.cs",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\TwilioSettings.cs",
+              "RelativeDocumentMoniker": "TwilioSettings.cs",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\TwilioSettings.cs",
+              "RelativeToolTip": "TwilioSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:25:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:24:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Murali\\TwilioVoipBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Murali\\TwilioVoipBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T05:20:23.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

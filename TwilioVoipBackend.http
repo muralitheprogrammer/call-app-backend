@@ -1,0 +1,6 @@
+@TwilioVoipBackend_HostAddress = http://localhost:5019
+
+GET {{TwilioVoipBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

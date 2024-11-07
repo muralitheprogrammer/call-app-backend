@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "TwilioVoipBackend.Controllers.CallsController",
+    "Method": "AcceptCall",
+    "RelativePath": "api/Calls/accept-call",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwilioVoipBackend.Controllers.CallsController",
+    "Method": "GetToken",
+    "RelativePath": "api/Calls/get-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwilioVoipBackend.Controllers.CallsController",
+    "Method": "HandleIncoming",
+    "RelativePath": "api/Calls/handle-incoming",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TwilioVoipBackend.Controllers.CallsController",
+    "Method": "MakeCall",
+    "RelativePath": "api/Calls/make-call",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TwilioVoipBackend.Model.CallRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
